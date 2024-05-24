@@ -1,8 +1,3 @@
-
-Certainly! Here is the markdown code for the README.md file:
-
-markdown
-Copy code
 # Sample Project: Using User Secrets in Console Applications
 
 ## Overview
